@@ -1,0 +1,83 @@
+$$$$ Chia thành 20 nhóm: $$$$
+- Nhóm 1:
+	+ Trịnh Văn Hiếu: 9.3
+	+ Ngô Mạnh Nguyên Quân: 7.5
+	 TONG DIEM = 16.8
+- Nhóm 2:
+	+ Trần Huyền Hà Vi: 9.2
+	+ Vũ Khánh Nguyên: 7.5
+	 TONG DIEM = 16.7
+- Nhóm 3:
+	+ Trần Thanh Nga: 9.1
+	+ Nguyễn Lý Huy Hoàng: 7.6
+	 TONG DIEM = 16.7
+- Nhóm 4:
+	+ Nguyễn Thị Mai: 9.0
+	+ Bùi Đức Duy: 7.6
+	+ Trần Đức Anh: 7.0
+	 TONG DIEM = 23.6
+- Nhóm 5:
+	+ Phạm Đức Dũng: 8.9
+	+ Nguyễn Thị Ngọc Quỳnh: 8.0
+	 TONG DIEM = 16.9
+- Nhóm 6:
+	+ Bùi Thị Thu Hằng: 8.9
+	+ Nguyễn Thị Hương Giang: 7.9
+	 TONG DIEM = 16.8
+- Nhóm 7:
+	+ Phạm Văn Tuấn: 8.9
+	+ Lại Đức Hiếu: 7.7
+	+ Bùi Đức Hiển: 7.0
+	 TONG DIEM = 23.6
+- Nhóm 8:
+	+ Nguyễn Khắc Khôi: 8.8
+	+ Phạm Khánh Hưng: 8.2
+	 TONG DIEM = 17.0
+- Nhóm 9:
+	+ Nguyễn Ngọc Mai: 8.8
+	+ Nguyễn Trần Trân: 8.2
+	 TONG DIEM = 17.0
+- Nhóm 10:
+	+ Bùi Hữu Quyết: 8.8
+	+ Nguyễn Khắc Tuấn: 8.2
+	 TONG DIEM = 17.0
+- Nhóm 11:
+	+ Nguyễn Thị Thùy Trang: 8.8
+	+ Ngô Quốc Triệu: 8.1
+	 TONG DIEM = 16.9
+- Nhóm 12:
+	+ Đỗ Tấn Lộc: 8.7
+	+ Phạm Văn Minh: 8.3
+	 TONG DIEM = 17.0
+- Nhóm 13:
+	+ Nguyễn Thị Thu Thảo: 8.7
+	+ Ngô Phúc Thành: 8.3
+	 TONG DIEM = 17.0
+- Nhóm 14:
+	+ Nguyễn Văn Dũng: 8.6
+	+ Đặng Hải Đăng: 8.5
+	 TONG DIEM = 17.1
+- Nhóm 15:
+	+ Lê Văn Đông: 8.6
+	+ Hoàng Cẩm Ly: 8.5
+	 TONG DIEM = 17.1
+- Nhóm 16:
+	+ Phạm Thị Hương Giang: 8.6
+	+ Nguyễn Phương Thảo: 8.5
+	 TONG DIEM = 17.1
+- Nhóm 17:
+	+ Mạc Phúc Lộc: 8.6
+	+ Nguyễn Thị Nhung: 8.4
+	 TONG DIEM = 17.0
+- Nhóm 18:
+	+ Doãn Mai Ngọc: 8.6
+	+ Đặng Thị Thùy Trang: 8.4
+	 TONG DIEM = 17.0
+- Nhóm 19:
+	+ Ngô Thị Kiều Trang: 8.6
+	+ Phạm Bá Trường: 8.4
+	 TONG DIEM = 17.0
+- Nhóm 20:
+	+ Đặng Nguyễn Việt Anh: 8.5
+	+ Đỗ Thị Hà Châu: 8.5
+	 TONG DIEM = 17.0
